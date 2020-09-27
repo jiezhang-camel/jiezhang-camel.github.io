@@ -82,10 +82,10 @@ analytics:
 author:
   name             : "Dr. Jie Zhang"
   avatar           : "jie_img1.png"
-  bio              : "Postdoctoral Researcher@KAIST, dedicated to breaking through the bottlenecks of data migration and the limitations of memory walls in the Von Neumann architecture."
+  bio              : "Postdoctoral Researcher @ KAIST <br> A designer of storage system and computer architecture in era of BigData and AI."
   location         : "Daejeon, South Korea"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=I5Zv078AAAAJ&hl=en"
   email            : "jie@camelab.org"
   researchgate     : "https://www.researchgate.net/profile/Jie_Zhang460"
