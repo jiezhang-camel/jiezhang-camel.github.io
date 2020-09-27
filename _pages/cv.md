@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+You can find out the PDF format ([English version](https://github.com/jiezhang-camel/Jie-CV-US.pdf), [Chinese version](https://github.com/jiezhang-camel/CV-2020-China.pdf)).
+
 Education
 ======
 * B.S. in GitHub, GitHub University, 2012
