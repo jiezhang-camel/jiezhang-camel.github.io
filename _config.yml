@@ -81,14 +81,14 @@ analytics:
 # Site Author
 author:
   name             : "Dr. Jie Zhang"
-  avatar           : "profile.png"
-  bio              : "dedicated to breaking through the bottlenecks of data migration and the limitations of memory walls in the Von Neumann architecture"
+  avatar           : "jie_img1.png"
+  bio              : "Postdoctoral Researcher@KAIST, dedicated to breaking through the bottlenecks of data migration and the limitations of memory walls in the Von Neumann architecture."
   location         : "Daejeon, South Korea"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=I5Zv078AAAAJ&hl=en"
-  email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  email            : "jie@camelab.org"
+  researchgate     : "https://www.researchgate.net/profile/Jie_Zhang460"
   uri              :
   bitbucket        :
   codepen          :
@@ -99,17 +99,17 @@ author:
   github           : "jiezhang-camel"
   google_plus      :
   keybase          :
-  instagram        :
+  instagram        : "https://www.instagram.com/camelab_members"
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  linkedin         : "https://www.linkedin.com/in/jie-zhang-42b9a957"
+  orcid            : # "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : # "replacethistwitterhandle"
   vine             :
   weibo            :
   xing             :
