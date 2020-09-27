@@ -13,30 +13,35 @@ You can find out the PDF format ([English version](https://github.com/jiezhang-c
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Nanjing University of Posts and Telecommunications, China, 2012
+* M.S. in University of Texas at Dallas, US, 2014
+* Ph.D in Yonsei University, South Korea, 2020
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Summer 2013 - Summer 2015: Research Assistant
+  * University of Texas at Dallas, US
+  * Duties included: Storage and GPU related research
+  * Supervisor: Professor Myoungsoo Jung
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Summer 2015 - Spring 2020: Research Assistant
+  * Yonsei University, South Korea, 2020
+  * Duties included: Storage and GPU related research
+  * Supervisor: Professor Myoungsoo Jung
+
+* Spring 2020 - Present: Research Fellow
+  * KAIST, South Korea, 2020
+  * Duties included: Storage and GPU related research
+  * Supervisor: Professor Myoungsoo Jung
   
-Skills
+<!-- Skills
 ======
 * Skill 1
 * Skill 2
   * Sub-skill 2.1
   * Sub-skill 2.2
   * Sub-skill 2.3
-* Skill 3
+* Skill 3 -->
 
 Publications
 ======
