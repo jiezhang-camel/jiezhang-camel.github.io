@@ -63,4 +63,28 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Journal Paper Review/Sub-review
+  * IEEE Transactions on Computer
+  * ACM Transactions on Storage
+  * ACM Transactions on Architecture and Code Optimization
+  * ACM Transactions on Computer Systems
+  * IEEE Transactions on Parallel and Distributed Systems
+  * IEEE Computer Architecture Letters
+  * IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems
+
+* Conference Paper Review/Sub-review
+  * MICRO’18 ’16
+  * HPCA’18 ’16
+  * ASPLOS’19 ’18 ’17
+  * DATE’19
+  * IPDPS’18 ’16
+  * ICCD’19 ’18 ’17 ’15
+  * DAC’20 ’19
+  * NVMSA’17 ’16
+  * HotStorage’20
+
+Honors
+======
+* 2015 ACM Student Research Competition 2nd Runner Award
+* 2018 OSDI travel grant
+* 2020 HPCA travel grant
