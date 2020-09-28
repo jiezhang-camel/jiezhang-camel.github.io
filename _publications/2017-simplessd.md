@@ -10,6 +10,6 @@ venue: 'IEEE Computer Architecture Letters (CAL)'
 ---
 Existing solid state drive (SSD) simulators unfortunately lack hardware and/or software architecture models. Consequently, they are far from capturing the critical features of contemporary SSD devices. More importantly, while the performance of modern systems that adopt SSDs can vary based on their numerous internal design parameters and storage-level configurations, a full system simulation with traditional SSD models often requires unreasonably long runtimes and excessive computational resources. In this work, we propose SimpleSSD, a high-fidelity simulator that models all detailed characteristics of hardware and software, while simplifying the nondescript features of storage internals. In contrast to existing SSD simulators, SimpleSSD can easily be integrated into publicly-available full system simulators. In addition, it can accommodate a complete storage stack and evaluate the performance of SSDs along with diverse memory technologies and microarchitectures. Thus, it facilitates simulations that explore the full design space at different levels of system abstraction.
 
-[Download paper here](https://arxiv.org/pdf/1705.06419.pdf)
+[Paper download](https://arxiv.org/pdf/1705.06419.pdf)
 
 Recommended citation: Jung, Myoungsoo, Jie Zhang, Ahmed Abulila, Miryeong Kwon, Narges Shahidi, John Shalf, Nam Sung Kim, and Mahmut Kandemir. "Simplessd: modeling solid state drives for holistic system simulation." IEEE Computer Architecture Letters 17, no. 1 (2017): 37-41.

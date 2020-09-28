@@ -12,6 +12,6 @@ The paradigm shift from planar (two dimensional (2D)) to vertical (three-dimensi
 
 In this work, we first present an elastic read reference (VRef) scheme (ERR) for reducing such errors in ReveNAND—our fast-drift aware 3D NAND design. To address the inherent limitation of the adaptive VRef, we introduce a new intra-block page organization (hitch-hike) that can enable stronger error correction for the error-prone pages. In addition, we propose a novel reinforcement-learning-based smart data refill scheme (iRefill) to counter the impact of fast-drift with minimum performance and hardware overhead. Finally, we present the first analytic model to characterize fast-drift and evaluate its system-level impact. Our results show that, compared to conventional 3D NAND design, our ReveNAND can reduce fast-drift errors by 87%, on average, and can lower the ECC latency and energy overheads by 13× and 10×, respectively.
 
-[Download paper here](https://dl.acm.org/doi/10.1145/3184744)
+[Paper download](https://dl.acm.org/doi/10.1145/3184744)
 
 Recommended citation: Shihab, Mustafa M., Jie Zhang, Myoungsoo Jung, and Mahmut Kandemir. "ReveNAND: A fast-drift-aware resilient 3D NAND flash design." ACM Transactions on Architecture and Code Optimization (TACO) 15, no. 2 (2018): 1-26.

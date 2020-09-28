@@ -10,5 +10,5 @@ venue: '10th Annual Non-Volatile Memories Workshop (NVMW)'
 ---
 
 
-[Download paper here](http://nvmw.ucsd.edu/nvmw2019-program/unzip/current/nvmw2019-final66.pdf)
+[Paper download](http://nvmw.ucsd.edu/nvmw2019-program/unzip/current/nvmw2019-final66.pdf)
 

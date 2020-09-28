@@ -10,6 +10,6 @@ venue: 'Korea Computer Congress (KCC)'
 ---
 Executing the irregular applications in general-purpose graphics processing units (GPGPUs) exposes serious challenges to their cache system. This paper proposes JUSTIT, an adjustable cache line management design that maximizes the GPU L1D cache utilization by being aware of the memory request access granularity. Specifically, JUSTIT can identify the 1-sector memory requests with a singular access and directly bypass L1D cache to prevent these memory requests from polluting the limited L1D cache space. For the other 1-sector memory requests, we redirect them to shared memory for future accesses. Our evaluation reveals that JUSTIT improves the IPC by 28%, compared to a state of the art memory management system.
 
-[Download paper here](ttps://github.com/jiezhang-camel/jiezhang-camel.github.io/blob/master/files/CacheBypass.pdf)
+[Paper download](ttps://github.com/jiezhang-camel/jiezhang-camel.github.io/blob/master/files/CacheBypass.pdf)
 
 Recommended citation: Zhang, Jie, and Myoungsoo Jung. "Maximizing GPU Cache Utilization with Adjustable Cache Line Management." In 2019 Korea Computer Congress (KCC), 2019.
