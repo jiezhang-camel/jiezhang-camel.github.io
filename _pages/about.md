@@ -8,7 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I'm a postdoctoral researcher at Korea Advanced Institute of Science and Technology (KAIST). I am currently engaged in the research and design of storage systems and specialized processors. My research addresses the requirements for high-performance storage systems in the era of big data and artificial intelligence from the perspective of computer architecture. I am dedicated to breaking through the bottlenecks of data migration and the limitations of memory walls in the Von Neumann architecture.
+I'm a postdoctoral researcher at Korea Advanced Institute of Science and Technology (KAIST). 
+
+I am currently engaged in the research and design of storage systems and specialized processors. My research addresses the requirements for high-performance storage systems in the era of big data and artificial intelligence from the perspective of computer architecture. I am dedicated to breaking through the bottlenecks of data migration and the limitations of memory walls in the Von Neumann architecture.
 
 ## Important:
  <span style="color:red"> I am actively looking for faculty jobs. It's always welcome to share any job opportunity. </span>
