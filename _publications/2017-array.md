@@ -1,0 +1,15 @@
+---
+title: "Understanding System Characteristics of Online Erasure Coding on Scalable, Distributed and Large-Scale SSD Array Systems"
+collection: publications
+permalink: /publication/2017-array
+excerpt: 'Large-scale systems with arrays of solid state disks (SSDs) have become increasingly common in many computing segments. To make such systems resilient, we can adopt erasure coding such as Reed-Solomon (RS) code as an alternative to replication because erasure coding can offer a significantly lower storage cost than replication. To understand the impact of using erasure coding on system performance and other system aspects such as CPU utilization and network traffic, we build a storage cluster consisting of approximately one hundred processor cores with more than fifty high-performance SSDs…'
+date: 2017-11-01
+venue: 'IEEE International Symposium on Workload Characterization (IISWC)'
+#paperurl: 'http://academicpages.github.io/files/paper2.pdf'
+#citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+---
+Large-scale systems with arrays of solid state disks (SSDs) have become increasingly common in many computing segments. To make such systems resilient, we can adopt erasure coding such as Reed-Solomon (RS) code as an alternative to replication because erasure coding can offer a significantly lower storage cost than replication. To understand the impact of using erasure coding on system performance and other system aspects such as CPU utilization and network traffic, we build a storage cluster consisting of approximately one hundred processor cores with more than fifty high-performance SSDs, and evaluate the cluster with a popular open-source distributed parallel file system, Ceph. Then we analyze behaviors of systems adopting erasure coding from the following five viewpoints, compared with those of systems using replication: (1) storage system I/O performance; (2) computing and software overheads; (3) I/O amplification; (4) network traffic among storage nodes; (5) the impact of physical data layout on performance of RS-coded SSD arrays. For all these analyses, we examine two representative RS configurations, which are used by Google and Facebook file systems, and compare them with triple replication that a typical parallel file system employs as a default fault tolerance mechanism. Lastly, we collect 54 block-level traces from the cluster and make them available for other researchers.
+
+[Download paper here](https://arxiv.org/pdf/1709.05365.pdf)
+
+Recommended citation: Koh, Sungjoon, Jie Zhang, Miryeong Kwon, Jungyeon Yoon, David Donofrio, Nam Sung Kim, and Myoungsoo Jung. "Understanding system characteristics of online erasure coding on scalable, distributed and large-scale SSD array systems." In 2017 IEEE International Symposium on Workload Characterization (IISWC), pp. 76-86. IEEE, 2017.

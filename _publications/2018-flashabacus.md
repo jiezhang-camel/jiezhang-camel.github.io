@@ -1,0 +1,15 @@
+---
+title: "CIAO: Cache Interference-Aware Throughput-Oriented Architecture and Scheduling for GPUs"
+collection: publications
+permalink: /publication/2018-ciao
+excerpt: 'A modern GPU aims to simultaneously execute more warps for higher Thread-Level Parallelism (TLP) and performance. When generating many memory requests, however, warps contend for limited cache space and thrash cache, which in turn severely degrades performance. To reduce such cache thrashing, we may adopt cache locality-aware warp scheduling which gives higher execution priority to warps with higher potential of data locality. However, we observe that warps with high potential of data locality often incurs far more cache thrashing or interference than warps with low potential of data locality....'
+date: 2018-06-01
+venue: '32nd IEEE International Parallel & Distributed Processing Symposium (IPDPS)'
+#paperurl: 'http://academicpages.github.io/files/paper2.pdf'
+#citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+---
+A modern GPU aims to simultaneously execute more warps for higher Thread-Level Parallelism (TLP) and performance. When generating many memory requests, however, warps contend for limited cache space and thrash cache, which in turn severely degrades performance. To reduce such cache thrashing, we may adopt cache locality-aware warp scheduling which gives higher execution priority to warps with higher potential of data locality. However, we observe that warps with high potential of data locality often incurs far more cache thrashing or interference than warps with low potential of data locality. Consequently, cache locality-aware warp scheduling may undesirably increase cache interference and/or unnecessarily decrease TLP. In this paper, we propose Cache Interference-Aware throughput-Oriented (CIAO) on-chip memory architecture and warp scheduling which exploit unused shared memory space and take insight opposite to cache locality-aware warp scheduling. Specifically, CIAO on-chip memory architecture can adaptively redirect memory requests of severely interfering warps to unused shared memory space to isolate memory requests of these interfering warps from those of interfered warps. If these interfering warps still incur severe cache interference, CIAO warp scheduling then begins to selectively throttle execution of these interfering warps. Our experiment shows that CIAO can offer 54% higher performance than prior cache locality-aware scheduling at a small chip cost.
+
+[Download paper here](https://arxiv.org/pdf/1805.07718.pdf)
+
+Recommended citation: Zhang, Jie, Shuwen Gao, Nam Sung Kim, and Myoungsoo Jung. "CIAO: Cache interference-aware throughput-oriented architecture and scheduling for GPUs." In 2018 IEEE International Parallel and Distributed Processing Symposium (IPDPS), pp. 149-159. IEEE, 2018.
