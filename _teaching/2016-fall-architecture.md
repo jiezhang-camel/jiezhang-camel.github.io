@@ -1,5 +1,5 @@
 ---
-title: "IIT 7024 Advanced System Architecture"
+title: "IIT 7024 Advanced System Architecture: teaching assitant"
 collection: teaching
 type: "Graduate course"
 permalink: /teaching/2015-fall-os

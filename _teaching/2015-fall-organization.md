@@ -1,5 +1,5 @@
 ---
-title: "IIT 6036 Computer Organization and Design"
+title: "IIT 6036 Computer Organization and Design: teaching assitant"
 collection: teaching
 type: "Graduate course"
 permalink: /teaching/2015-fall-organization
