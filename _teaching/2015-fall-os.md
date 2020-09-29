@@ -1,5 +1,5 @@
 ---
-title: "IIT 3002 Oprating Systems: teaching assistant"
+title: "IIT 3002 Operating Systems: teaching assistant"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2015-fall-os
