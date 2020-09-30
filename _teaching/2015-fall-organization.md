@@ -1,7 +1,7 @@
 ---
 title: "IIT 6036 Computer Organization and Design: teaching assistant"
 collection: teaching
-type: "Graduate course"
+type: "Teaching assistant, Graduate course"
 permalink: /teaching/2015-fall-organization
 venue: "School of Integrated Technology, Yonsei University"
 date: 2015-09-01

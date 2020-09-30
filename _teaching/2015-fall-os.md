@@ -1,7 +1,7 @@
 ---
 title: "IIT 3002 Operating Systems: teaching assistant"
 collection: teaching
-type: "Undergraduate course"
+type: "Teaching assistant, Undergraduate course"
 permalink: /teaching/2015-fall-os
 venue: "School of Integrated Technology, Yonsei University"
 date: 2015-09-01

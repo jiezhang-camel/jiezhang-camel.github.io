@@ -1,7 +1,7 @@
 ---
-title: "IIT 7024 Advanced System Architecture: teaching assistant"
+title: "IIT 7024 Advanced System Architecture"
 collection: teaching
-type: "Graduate course"
+type: "Teaching assistant, Graduate course"
 permalink: /teaching/2015-fall-os
 venue: "School of Integrated Technology, Yonsei University"
 date: 2016-09-01
