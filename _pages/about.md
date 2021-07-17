@@ -10,14 +10,15 @@ redirect_from:
 
 **Assistant professor**
 
-*Computer Science Department*
-*Peking University*
+*Computer Science Department,*
+*Peking University,*
 *Beijing, China*  
 
 
 I am currently engaged in the research and design of storage systems and specialized processors. My research addresses the requirements for high-performance storage systems in the era of big data and artificial intelligence from the perspective of computer architecture. I am dedicated to breaking through the bottlenecks of data migration and the limitations of memory walls in the Von Neumann architecture.
 
 ----
+
 ## Important:
  <span style="color:red"> I am actively seeking talented and self-motivated students. It's always welcome to contact me via the email. </span>
 
@@ -30,8 +31,10 @@ I am currently engaged in the research and design of storage systems and special
 + **Feb 2020**: one paper is accepted to HPCA'20.
 + **Feb 2020**: one paper is accpeted to FAST'20.
 + **Feb 2020**: join KAIST as a postdoctoral researcher.
-+ **Dec 2019**: successfully defend PhD thesis.
++ **Dec 2020**: successfully defend PhD thesis.
+
 ----
+
 ## Selected Publications:
 + Ohm-GPU: Integrating New Optical Network and Heterogeneous Memory into GPU Multi-Processors (**MICRO**) 2021
 + Revamping Storage Class Memory With Hardware Automated Memory-Over-Storage Solution (**ISCA**) 2021
