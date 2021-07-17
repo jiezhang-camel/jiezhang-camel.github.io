@@ -8,8 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-**Assistant professor**
-
+**Assistant professor** <br>
 *Computer Science Department,*<br>
 *Peking University,*<br>
 *Beijing, China*  
