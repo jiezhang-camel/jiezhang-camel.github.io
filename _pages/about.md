@@ -15,8 +15,10 @@ I am currently engaged in the research and design of storage systems and special
 ----
 ## Important:
  <span style="color:red"> I am actively seeking talented and self-motivated students. It's always welcome to contact me via the email. </span>
----
- ## News:
+
+----
+
+## News:
 + **July 2021**: one paper is accepted to MICRO'21.
 + **April 2021**: three papers are accepted to NVMW'21.
 + **Feb 2021**: one paper is accepted to ISCA'21.
