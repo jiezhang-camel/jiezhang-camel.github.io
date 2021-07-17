@@ -8,7 +8,12 @@ redirect_from:
   - /about.html
 ---
 
-I'm an assistant professor of the school of EECS at Peking University, China.  
+**Assistant professor**
+
+*Computer Science Department*
+*Peking University*
+*Beijing, China*  
+
 
 I am currently engaged in the research and design of storage systems and specialized processors. My research addresses the requirements for high-performance storage systems in the era of big data and artificial intelligence from the perspective of computer architecture. I am dedicated to breaking through the bottlenecks of data migration and the limitations of memory walls in the Von Neumann architecture.
 
