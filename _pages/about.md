@@ -27,7 +27,22 @@ I am currently engaged in the research and design of storage systems and special
 + **July 2021**: one paper is accepted to MICRO'21.
 + **April 2021**: three papers are accepted to NVMW'21.
 + **Feb 2021**: one paper is accepted to ISCA'21.
-
++ **Feb 2020**: one paper is accepted to HPCA'20.
++ **Feb 2020**: one paper is accpeted to FAST'20.
++ **Feb 2020**: start postdoctoral researcher career in KAIST.
++ **Dec 2019**: successfully defend PhD thesis.
+----
+## Selected Publications:
++ Ohm-GPU: Integrating New Optical Network and Heterogeneous Memory into GPU Multi-Processors (**MICRO**) 2021
++ Revamping Storage Class Memory With Hardware Automated Memory-Over-Storage Solution (**ISCA**) 2021
++ ZnG: Architecting GPU Multi-Processors with New Flash for Scalable Data Analysis (**ISCA**) 2020
++ Scalable Parallel Flash Firmware for Many-core Architectures (**FAST**) 2020
++ DRAM-less: Hardware Acceleration of Data Processing with New Memory (**HPCA**) 2020
++ FlashGPU: Placing New Flash Next to GPU Cores (**DAC**) 2019
++ FUSE: Fusing STT-MRAM into GPUs to Alleviate Off-Chip Memory Access Overheads (**HPCA**) 2019
++ FlashShare: Punching Through Server Storage Stack from Kernel to Firmware for Ultra-Low Latency SSDs (**OSDI**) 2018
++ Amber: Enabling Precise Full-System Simulation with Detailed Modeling of All SSD Resources (**MICRO**) 2018
++ FlashAbacus: A Self-governing Flash-based Accelerator for Low-power Systems (**Eurosys**) 2018
 
 <!-- This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
 
