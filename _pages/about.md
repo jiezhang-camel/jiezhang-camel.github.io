@@ -10,8 +10,8 @@ redirect_from:
 
 **Assistant professor**
 
-*Computer Science Department,*
-*Peking University,*
+*Computer Science Department,*<br>
+*Peking University,*<br>
 *Beijing, China*  
 
 

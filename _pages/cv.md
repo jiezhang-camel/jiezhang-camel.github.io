@@ -19,8 +19,11 @@ Education
 
 Work experience
 ======
-* Summer 2013 - Summer 2015: Research Assistant
-  * University of Texas at Dallas, US
+* Summer 2021 - : Assistant Professor
+  * Peking University, China, 2021
+
+* Spring 2020 - Spring 2021: Postdoctoral Researcher
+  * KAIST, South Korea, 2020
   * Duties included: Storage and GPU related research
   * Supervisor: Professor Myoungsoo Jung
 
@@ -29,10 +32,11 @@ Work experience
   * Duties included: Storage and GPU related research
   * Supervisor: Professor Myoungsoo Jung
 
-* Spring 2020 - Spring 2021: Postdoctoral Researcher
-  * KAIST, South Korea, 2020
+* Summer 2013 - Summer 2015: Research Assistant
+  * University of Texas at Dallas, US
   * Duties included: Storage and GPU related research
   * Supervisor: Professor Myoungsoo Jung
+
   
 <!-- Skills
 ======
