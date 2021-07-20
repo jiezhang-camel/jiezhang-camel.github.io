@@ -30,7 +30,7 @@ I am currently engaged in the research and design of storage systems and special
 + **Feb 2020**: one paper is accepted to HPCA'20.
 + **Feb 2020**: one paper is accpeted to FAST'20.
 + **Feb 2020**: join KAIST as a postdoctoral researcher.
-+ **Dec 2020**: successfully defend PhD thesis.
++ **Dec 2019**: successfully defend PhD thesis.
 
 ----
 
