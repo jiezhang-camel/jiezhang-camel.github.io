@@ -27,6 +27,7 @@ I am currently engaged in the research and design of storage systems and special
 + **July 2021**: one paper is accepted to MICRO'21.
 + **April 2021**: three papers are accepted to NVMW'21.
 + **Feb 2021**: one paper is accepted to ISCA'21.
++ **June 2020**: one paper is accepted to ISCA'20.
 + **Feb 2020**: one paper is accepted to HPCA'20.
 + **Feb 2020**: one paper is accpeted to FAST'20.
 + **Feb 2020**: join KAIST as a postdoctoral researcher.
