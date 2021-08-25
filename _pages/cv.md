@@ -23,10 +23,10 @@ Work experience
 
 Education
 ======
-* B.S. in Nanjing University of Posts and Telecommunications, China, 2012
-* M.S. in University of Texas at Dallas, US, 2014
 * Ph.D in Yonsei University, South Korea, 2020
-  
+* M.S. in University of Texas at Dallas, US, 2014
+* B.S. in Nanjing University of Posts and Telecommunications, China, 2012
+
 <!-- Skills
 ======
 * Skill 1
