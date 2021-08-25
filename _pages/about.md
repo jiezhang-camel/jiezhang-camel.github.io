@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-**Assistant professor** <br>
+**Assistant professor, PhD advisor** <br>
 *Computer Science Department,*<br>
 *Peking University,*<br>
 *Beijing, China*  
@@ -46,6 +46,9 @@ I am currently engaged in the research and design of storage systems and special
 + FlashShare: Punching Through Server Storage Stack from Kernel to Firmware for Ultra-Low Latency SSDs (**OSDI**) 2018
 + Amber: Enabling Precise Full-System Simulation with Detailed Modeling of All SSD Resources (**MICRO**) 2018
 + FlashAbacus: A Self-governing Flash-based Accelerator for Low-power Systems (**Eurosys**) 2018
++ DUANG: Fast and Lightweight Page Migration in Asymmetric Memory Systems (**HPCA**) 2016
++ NVMMU: A Non-Volatile Memory Management Unit for Heterogeneous GPU-SSD Architectures (**PACT**) 2015
++ Power, Energy and Thermal Considerations in SSD-Based I/O Acceleration (**HotStorage**) 2014
 
 <!-- This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
 
