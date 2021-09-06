@@ -24,6 +24,7 @@ I am currently engaged in the research and design of storage systems and special
 ----
 
 ## News:
++ **Sep 2021**: our work "HAMS" is selected as [KAIST breakthroughs 50 years](http://breakthroughs.kaist.ac.kr/?post_no=1954).
 + **July 2021**: one paper is accepted to MICRO'21.
 + **April 2021**: three papers are accepted to NVMW'21.
 + **Feb 2021**: one paper is accepted to ISCA'21.
