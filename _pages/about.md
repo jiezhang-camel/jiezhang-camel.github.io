@@ -25,8 +25,10 @@ I am currently engaged in the research and design of storage systems and special
 
 ## News:
 + **Sep 2021**: our work "HAMS" is selected as [KAIST breakthroughs 50 years](http://breakthroughs.kaist.ac.kr/?post_no=1954).
++ **August 2021**: our work "OhmGPU" is reported by [Naver headline + 26](https://search.naver.com/search.naver?where=news&sm=tab_tnw&query=ohm%20GPU&sort=0&photo=0&field=0&pd=0&ds=&de=&mynews=0&office_type=0&office_section_code=0&news_office_checked=&related=1&docid=2770004947353&nso=so:r,p:all,a:all) and [Press/Newspaper](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/viewer.html?pdfurl=http%3A%2F%2Fcamelab.org%2Fuploads%2FMain%2Fohgpu.pdf&clen=447529&chunk=true).
 + **July 2021**: one paper is accepted to MICRO'21.
 + **April 2021**: three papers are accepted to NVMW'21.
++ **March 2021**: our work "HAMS" is reported by [Naver headline + 39](https://search.naver.com/search.naver?where=news&sm=tab_tnw&query=%ED%85%8C%EB%9D%BC%EB%B0%94%EC%9D%B4%ED%8A%B8&sort=0&photo=0&field=0&pd=0&ds=&de=&mynews=0&office_type=0&office_section_code=0&news_office_checked=&related=1&docid=50360000134412&nso=so:r,p:all,a:all), [KBS](https://news.kbs.co.kr/news/view.do?ncd=5140379&ref=A) and [Press/Newspaper](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/viewer.html?pdfurl=http%3A%2F%2Fcamelab.org%2Fuploads%2FMain%2Fterabyte.pdf&clen=866764&chunk=true).
 + **Feb 2021**: one paper is accepted to ISCA'21.
 + **June 2020**: one paper is accepted to ISCA'20.
 + **Feb 2020**: one paper is accepted to HPCA'20.
