@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-**Assistant professor** <br>
+**Assistant professor, PhD advisor** <br>
 *Computer Science Department,*<br>
 *Peking University,*<br>
 *Beijing, China*  
@@ -24,8 +24,11 @@ I am currently engaged in the research and design of storage systems and special
 ----
 
 ## News:
++ **Sep 2021**: our work "HAMS" is selected as [KAIST breakthroughs 50 years](http://breakthroughs.kaist.ac.kr/?post_no=1954).
++ **August 2021**: our work "OhmGPU" is reported by [Naver headline + 26](https://search.naver.com/search.naver?where=news&sm=tab_tnw&query=ohm%20GPU&sort=0&photo=0&field=0&pd=0&ds=&de=&mynews=0&office_type=0&office_section_code=0&news_office_checked=&related=1&docid=2770004947353&nso=so:r,p:all,a:all) and [Press](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/viewer.html?pdfurl=http%3A%2F%2Fcamelab.org%2Fuploads%2FMain%2Fohgpu.pdf&clen=447529&chunk=true).
 + **July 2021**: one paper is accepted to MICRO'21.
 + **April 2021**: three papers are accepted to NVMW'21.
++ **March 2021**: our work "HAMS" is reported by [Naver headline + 39](https://search.naver.com/search.naver?where=news&sm=tab_tnw&query=%ED%85%8C%EB%9D%BC%EB%B0%94%EC%9D%B4%ED%8A%B8&sort=0&photo=0&field=0&pd=0&ds=&de=&mynews=0&office_type=0&office_section_code=0&news_office_checked=&related=1&docid=50360000134412&nso=so:r,p:all,a:all), [KBS](https://news.kbs.co.kr/news/view.do?ncd=5140379&ref=A) and [Press](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/viewer.html?pdfurl=http%3A%2F%2Fcamelab.org%2Fuploads%2FMain%2Fterabyte.pdf&clen=866764&chunk=true).
 + **Feb 2021**: one paper is accepted to ISCA'21.
 + **June 2020**: one paper is accepted to ISCA'20.
 + **Feb 2020**: one paper is accepted to HPCA'20.
@@ -46,6 +49,9 @@ I am currently engaged in the research and design of storage systems and special
 + FlashShare: Punching Through Server Storage Stack from Kernel to Firmware for Ultra-Low Latency SSDs (**OSDI**) 2018
 + Amber: Enabling Precise Full-System Simulation with Detailed Modeling of All SSD Resources (**MICRO**) 2018
 + FlashAbacus: A Self-governing Flash-based Accelerator for Low-power Systems (**Eurosys**) 2018
++ DUANG: Fast and Lightweight Page Migration in Asymmetric Memory Systems (**HPCA**) 2016
++ NVMMU: A Non-Volatile Memory Management Unit for Heterogeneous GPU-SSD Architectures (**PACT**) 2015
++ Power, Energy and Thermal Considerations in SSD-Based I/O Acceleration (**HotStorage**) 2014
 
 <!-- This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
 

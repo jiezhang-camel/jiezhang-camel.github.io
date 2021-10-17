@@ -11,12 +11,6 @@ redirect_from:
 
 You can find out the PDF format ([English version](https://github.com/jiezhang-camel/jiezhang-camel.github.io/blob/master/Jie-CV-US.pdf), [Chinese version](https://github.com/jiezhang-camel/jiezhang-camel.github.io/blob/master/Jie-CV-China.pdf)).
 
-Education
-======
-* B.S. in Nanjing University of Posts and Telecommunications, China, 2012
-* M.S. in University of Texas at Dallas, US, 2014
-* Ph.D in Yonsei University, South Korea, 2020
-
 Work experience
 ======
 * Summer 2021 - : Assistant Professor
@@ -27,17 +21,12 @@ Work experience
   * Duties included: Storage and GPU related research
   * Supervisor: Professor Myoungsoo Jung
 
-* Summer 2015 - Spring 2020: Research Assistant
-  * Yonsei University, South Korea, 2020
-  * Duties included: Storage and GPU related research
-  * Supervisor: Professor Myoungsoo Jung
+Education
+======
+* Ph.D in Yonsei University, South Korea, 2020
+* M.S. in University of Texas at Dallas, US, 2014
+* B.S. in Nanjing University of Posts and Telecommunications, China, 2012
 
-* Summer 2013 - Summer 2015: Research Assistant
-  * University of Texas at Dallas, US
-  * Duties included: Storage and GPU related research
-  * Supervisor: Professor Myoungsoo Jung
-
-  
 <!-- Skills
 ======
 * Skill 1
