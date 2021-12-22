@@ -24,6 +24,7 @@ I am currently engaged in the research and design of storage systems and special
 ----
 
 ## News:
++ **December 2021**: Awarded NSFC Excellent Young Scientists Fund Overseas Program (国家自然科学基金优秀青年科学基金海外项目)!
 + **Sep 2021**: our work "HAMS" is selected as [KAIST breakthroughs 50 years](http://breakthroughs.kaist.ac.kr/?post_no=1954).
 + **August 2021**: our work "OhmGPU" is reported by [Naver headline + 26](https://search.naver.com/search.naver?where=news&sm=tab_tnw&query=ohm%20GPU&sort=0&photo=0&field=0&pd=0&ds=&de=&mynews=0&office_type=0&office_section_code=0&news_office_checked=&related=1&docid=2770004947353&nso=so:r,p:all,a:all) and [Press](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/viewer.html?pdfurl=http%3A%2F%2Fcamelab.org%2Fuploads%2FMain%2Fohgpu.pdf&clen=447529&chunk=true).
 + **July 2021**: one paper is accepted to MICRO'21.
