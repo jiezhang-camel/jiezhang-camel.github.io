@@ -19,7 +19,7 @@ I am currently engaged in the research and design of storage systems and special
 ----
 
 ## Important:
- <span style="color:red"> I am actively seeking talented and self-motivated students. It's always welcome to contact me via the email. </span>
+ <span style="color:red"> I am actively seeking talented and self-motivated students. There are two openings per year for future PhD candidates and multiple positions for interns. It's always welcome to contact me via the email. </span>
 
 ----
 
