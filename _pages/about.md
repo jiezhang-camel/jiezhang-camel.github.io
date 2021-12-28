@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 **Assistant professor, PhD advisor** <br>
-*Computer Science Department,*<br>
+*The School of Computer Science,*<br>
 *Peking University,*<br>
 *Beijing, China*  
 
