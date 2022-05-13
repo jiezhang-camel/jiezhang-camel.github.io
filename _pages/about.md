@@ -24,7 +24,7 @@ I am currently engaged in the research and design of storage systems and special
 ----
 
 ## News:
-+ **April 2022**: our paper "ScalaRAID" is accepted to HotStorage'22. Congrats to Shushu Yi!
++ **May 2022**: our paper "ScalaRAID" is accepted to HotStorage'22. Congrats to Shushu Yi!
 + **April 2022**: two papers are accepted to NVMW'22.
 + **December 2021**: awarded NSFC Excellent Young Scientists Fund Overseas Program (国家自然科学基金优秀青年科学基金海外项目)!
 + **Sep 2021**: our work "HAMS" is selected as [KAIST breakthroughs 50 years](http://breakthroughs.kaist.ac.kr/?post_no=1954).
