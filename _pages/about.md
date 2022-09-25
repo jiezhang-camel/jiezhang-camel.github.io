@@ -24,6 +24,7 @@ I am currently engaged in the research and design of storage systems and special
 ----
 
 ## News:
++ **September 2022**: awarded ACM SIGCSE Rising Star!
 + **July 2022**: one paper is accepted to THPC.
 + **May 2022**: our paper "ScalaRAID" is accepted to HotStorage'22. Congrats to Shushu Yi!
 + **April 2022**: two papers are accepted to NVMW'22.
