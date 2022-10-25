@@ -24,6 +24,7 @@ I am currently engaged in the research and design of storage systems and special
 ----
 
 ## News:
++ **October 2022**: invited to serve as TPC of USENIX ATC and SAC. 
 + **September 2022**: awarded ACM SIGCSE Rising Star!
 + **July 2022**: one paper is accepted to THPC.
 + **May 2022**: our paper "ScalaRAID" is accepted to HotStorage'22. Congrats to Shushu Yi!
