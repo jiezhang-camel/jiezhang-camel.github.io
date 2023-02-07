@@ -24,6 +24,7 @@ I am currently engaged in the research and design of storage systems and special
 ----
 
 ## News:
++ **January 2023**: one paper is accepted to NVMW.
 + **January 2023**: one paper is accepted to CAL.
 + **December 2022**: one paper is accepted to SAC.
 + **October 2022**: invited to serve as TPC of USENIX ATC and SAC. 
