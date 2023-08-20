@@ -24,6 +24,8 @@ I am currently engaged in the research and design of storage systems and special
 ----
 
 ## News:
++ **August 2023**: Awarded Intel Young Faculty Researcher Program.
++ **July 2023**: invited to serve as TPC of HPCA.
 + **April 2023**: Awarded 1st prize in national storage technology competition. Congrats to Shushu Yi!
 + **January 2023**: one paper is accepted to NVMW.
 + **January 2023**: one paper is accepted to CAL.
