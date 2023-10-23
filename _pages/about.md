@@ -24,6 +24,7 @@ I am currently engaged in the research and design of storage systems and special
 ----
 
 ## News:
++ **October 2023**: Four papers are accepted to HPCA'24. Congratulations to Yuda and Yuyue!
 + **August 2023**: Awarded Intel Young Faculty Researcher Program.
 + **July 2023**: invited to serve as TPC of HPCA.
 + **April 2023**: Awarded 1st prize in national storage technology competition. Congrats to Shushu Yi!
