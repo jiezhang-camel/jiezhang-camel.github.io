@@ -52,6 +52,10 @@ I am currently engaged in the research and design of storage systems and special
 ----
 
 ## Selected Publications:
++ BeaconGNN: Large-Scale GNN Acceleration with Asynchronous In-Storage Computing (**HPCA**) 2024
++ StreamPIM: Streaming Matrix Computation in Racetrack Memory (**HPCA**) 2024
++ LearnedFTL: A Learning-based Page-level FTL for Reducing Double Reads in Flash-based SSDs (**HPCA**) 2024
++ Midas Touch: Invalid-Data Assisted Reliability and Performance Boost for 3D High-Density Flash (**HPCA**) 2024
 + Ohm-GPU: Integrating New Optical Network and Heterogeneous Memory into GPU Multi-Processors (**MICRO**) 2021
 + Revamping Storage Class Memory With Hardware Automated Memory-Over-Storage Solution (**ISCA**) 2021
 + ZnG: Architecting GPU Multi-Processors with New Flash for Scalable Data Analysis (**ISCA**) 2020
