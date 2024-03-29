@@ -24,6 +24,7 @@ I am currently engaged in the research and design of storage systems and special
 ----
 
 ## News:
++ **March 2024**: Invited to serve as ERC of MICRO.
 + **November 2023**: One paper is accepted to ASPLOS'24.
 + **October 2023**: Invited to serve as ERC of ISCA.
 + **October 2023**: Four papers are accepted to HPCA'24. Congratulations to Yuda and Yuyue!
