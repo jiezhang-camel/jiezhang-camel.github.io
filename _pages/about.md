@@ -24,6 +24,7 @@ I am currently engaged in the research and design of storage systems and special
 ----
 
 ## News:
++ **April 2024**: Flagger is accepted to ISCA'24. Congraduations to Xiurui and Yuda!
 + **March 2024**: Invited to serve as ERC of MICRO.
 + **November 2023**: One paper is accepted to ASPLOS'24.
 + **October 2023**: Invited to serve as ERC of ISCA.
