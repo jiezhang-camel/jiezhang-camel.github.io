@@ -2,7 +2,7 @@
 title: "Midas Touch: Invalid-Data Assisted Reliability and Performance Boost for 3D High-Density Flash"
 collection: publications
 permalink: /publication/2024-midastouch
-excerpt: 'this work proposes invalid-data assisted strategies for performance and reliability boosting of valid data in 3D QLC-based flash storage systems. We first propose a high-efficiency re-programming (RP) scheme to reprogram the valid data and a high-reliability not-programming (NP) scheme to program data on the partially-invalid WLs…'
+excerpt: 'This work proposes invalid-data assisted strategies for performance and reliability boosting of valid data in 3D QLC-based flash storage systems. We first propose a high-efficiency re-programming (RP) scheme to reprogram the valid data and a high-reliability not-programming (NP) scheme to program data on the partially-invalid WLs…'
 date: 2024-03-01
 venue: 'IEEE International Symposium on High-Performance Computer Architecture (HPCA)'
 #paperurl: 'http://academicpages.github.io/files/paper3.pdf'

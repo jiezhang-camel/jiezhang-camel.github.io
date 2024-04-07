@@ -2,9 +2,9 @@
 title: "Flagger: Cooperative Acceleration for Large-Scale Cross-Silo Federated Learning Aggregation"
 collection: publications
 permalink: /publication/2024-flagger
-excerpt: 'we propose Flagger, an efficient and high-performance FL aggregator. Flagger meticulously integrates the data processing unit (DPU) with computational storage drives (CSD), employing these two distinct near-data processing (NDP) accelerators as a holistic architecture to collaboratively enhance FL aggregation…'
-date: 2024-06-01
-venue: 'IEEE International Symposium on High-Performance Computer Architecture (HPCA)'
+excerpt: 'We propose Flagger, an efficient and high-performance FL aggregator. Flagger meticulously integrates the data processing unit (DPU) with computational storage drives (CSD), employing these two distinct near-data processing (NDP) accelerators as a holistic architecture to collaboratively enhance FL aggregation…'
+date: 2024-06-29
+venue: 'IEEE/ACM International Symposium on Computer Architecture (ISCA)'
 #paperurl: 'http://academicpages.github.io/files/paper3.pdf'
 #citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
 ---

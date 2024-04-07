@@ -2,7 +2,7 @@
 title: "StreamPIM: Streaming Matrix Computation in Racetrack Memory"
 collection: publications
 permalink: /publication/2024-streampim
-excerpt: 'we propose StreamPIM, a new processing-in-RM architecture, which tightly couples the memory core and the computation units. Specifically, StreamPIM directly constructs a matrix processor from domain-wall nanowires without the usage of CMOS-based computation units. It also designs a domainwall nanowire-based bus, which can eliminate electromagnetic conversion…'
+excerpt: 'We propose StreamPIM, a new processing-in-RM architecture, which tightly couples the memory core and the computation units. Specifically, StreamPIM directly constructs a matrix processor from domain-wall nanowires without the usage of CMOS-based computation units. It also designs a domainwall nanowire-based bus, which can eliminate electromagnetic conversion…'
 date: 2024-03-01
 venue: 'IEEE International Symposium on High-Performance Computer Architecture (HPCA)'
 #paperurl: 'http://academicpages.github.io/files/paper3.pdf'
