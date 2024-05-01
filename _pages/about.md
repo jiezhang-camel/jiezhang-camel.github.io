@@ -24,7 +24,7 @@ I am currently engaged in the research and design of storage systems and special
 ----
 
 ## News:
-+ **May 2024**: Two papers are accepted to USENIX ATC'24. Congratulations to Shushu Li, Li Peng, Xiurui and Yuda!
++ **May 2024**: Two papers are accepted to USENIX ATC'24. Congratulations to Shushu Yi, Li Peng, Xiurui and Yuda!
 + **April 2024**: One paper is accepted to TACO.
 + **April 2024**: Flagger is accepted to ISCA'24. Congratulations to Xiurui and Yuda!
 + **March 2024**: Invited to serve as ERC of MICRO.
