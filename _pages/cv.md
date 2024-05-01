@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-You can find out the PDF format ([English version](https://github.com/jiezhang-camel/jiezhang-camel.github.io/blob/master/CV-2020-US2.pdf), [Chinese version](https://github.com/jiezhang-camel/jiezhang-camel.github.io/blob/master/CV-2020-China.pdf)).
+You can find out the PDF format ([English version](https://github.com/jiezhang-camel/jiezhang-camel.github.io/blob/master/CV-2020-US2.pdf), [Chinese version](https://github.com/jiezhang-camel/jiezhang-camel.github.io/blob/master/CV-2020-China2.pdf)).
 
 Work experience
 ======

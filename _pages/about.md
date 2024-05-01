@@ -58,6 +58,9 @@ I am currently engaged in the research and design of storage systems and special
 ----
 
 ## Selected Publications:
++ ScalaCache: Scalable User-Space Page Cache Management with Software-Hardware Coordination (**USENIX ATC**) 2024
++ ScalaAFA: Constructing User-Space All-Flash Array Engine with Holistic Designs (**USENIX ATC**) 2024
++ Flagger: Cooperative Acceleration for Large-Scale Cross-Silo Federated Learning Aggregation (**ISCA**) 2024
 + Achieving Near-Zero Read Retry for 3D NAND Flash Memory (**ASPLOS**) 2024
 + BeaconGNN: Large-Scale GNN Acceleration with Asynchronous In-Storage Computing (**HPCA**) 2024
 + StreamPIM: Streaming Matrix Computation in Racetrack Memory (**HPCA**) 2024
