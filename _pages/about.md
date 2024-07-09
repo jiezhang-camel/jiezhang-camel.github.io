@@ -59,27 +59,27 @@ I am currently engaged in the research and design of storage systems and special
 ----
 
 ## Selected Publications:
-+ (**USENIX ATC**) ScalaCache: Scalable User-Space Page Cache Management with Software-Hardware Coordination, 2024
-+ (**USENIX ATC**) ScalaAFA: Constructing User-Space All-Flash Array Engine with Holistic Designs, 2024
-+ (**ISCA**) Flagger: Cooperative Acceleration for Large-Scale Cross-Silo Federated Learning Aggregation, 2024
-+ (**ASPLOS**) Achieving Near-Zero Read Retry for 3D NAND Flash Memory, 2024
-+ (**HPCA**) BeaconGNN: Large-Scale GNN Acceleration with Asynchronous In-Storage Computing, 2024 
-+ (**HPCA**) StreamPIM: Streaming Matrix Computation in Racetrack Memory, 2024
-+ (**HPCA**) LearnedFTL: A Learning-based Page-level FTL for Reducing Double Reads in Flash-based SSDs, 2024 
-+ (**HPCA**) Midas Touch: Invalid-Data Assisted Reliability and Performance Boost for 3D High-Density Flash, 2024 
-+ (**MICRO**) Ohm-GPU: Integrating New Optical Network and Heterogeneous Memory into GPU Multi-Processors, 2021 
-+ (**ISCA**) Revamping Storage Class Memory With Hardware Automated Memory-Over-Storage Solution, 2021
-+ (**ISCA**) ZnG: Architecting GPU Multi-Processors with New Flash for Scalable Data Analysis, 2020
-+ (**USENIX FAST**) Scalable Parallel Flash Firmware for Many-core Architectures, 2020 
-+ (**HPCA**) DRAM-less: Hardware Acceleration of Data Processing with New Memory, 2020 
-+ (**DAC**) FlashGPU: Placing New Flash Next to GPU Cores, 2019 
-+ (**HPCA**) FUSE: Fusing STT-MRAM into GPUs to Alleviate Off-Chip Memory Access Overheads, 2019 
-+ (**OSDI**) FlashShare: Punching Through Server Storage Stack from Kernel to Firmware for Ultra-Low Latency SSDs, 2018 
-+ (**MICRO**) Amber: Enabling Precise Full-System Simulation with Detailed Modeling of All SSD Resources, 2018 
-+ (**Eurosys**) FlashAbacus: A Self-governing Flash-based Accelerator for Low-power Systems, 2018 
-+ (**HPCA**) DUANG: Fast and Lightweight Page Migration in Asymmetric Memory Systems, 2016 
-+ (**PACT**) NVMMU: A Non-Volatile Memory Management Unit for Heterogeneous GPU-SSD Architectures, 2015 
-+ (**HotStorage**) Power, Energy and Thermal Considerations in SSD-Based I/O Acceleration, 2014 
++ (**USENIX ATC'24**) ScalaCache: Scalable User-Space Page Cache Management with Software-Hardware Coordination
++ (**USENIX ATC'24**) ScalaAFA: Constructing User-Space All-Flash Array Engine with Holistic Designs
++ (**ISCA'24**) Flagger: Cooperative Acceleration for Large-Scale Cross-Silo Federated Learning Aggregation
++ (**ASPLOS'24**) Achieving Near-Zero Read Retry for 3D NAND Flash Memory
++ (**HPCA'24**) BeaconGNN: Large-Scale GNN Acceleration with Asynchronous In-Storage Computing 
++ (**HPCA'24**) StreamPIM: Streaming Matrix Computation in Racetrack Memory
++ (**HPCA'24**) LearnedFTL: A Learning-based Page-level FTL for Reducing Double Reads in Flash-based SSDs 
++ (**HPCA'24**) Midas Touch: Invalid-Data Assisted Reliability and Performance Boost for 3D High-Density Flash 
++ (**MICRO'21**) Ohm-GPU: Integrating New Optical Network and Heterogeneous Memory into GPU Multi-Processors 
++ (**ISCA'21**) Revamping Storage Class Memory With Hardware Automated Memory-Over-Storage Solution
++ (**ISCA'20**) ZnG: Architecting GPU Multi-Processors with New Flash for Scalable Data Analysis
++ (**USENIX FAST'20**) Scalable Parallel Flash Firmware for Many-core Architectures 
++ (**HPCA'20**) DRAM-less: Hardware Acceleration of Data Processing with New Memory 
++ (**DAC'19**) FlashGPU: Placing New Flash Next to GPU Cores 
++ (**HPCA'19**) FUSE: Fusing STT-MRAM into GPUs to Alleviate Off-Chip Memory Access Overheads 
++ (**OSDI'18**) FlashShare: Punching Through Server Storage Stack from Kernel to Firmware for Ultra-Low Latency SSDs 
++ (**MICRO'18**) Amber: Enabling Precise Full-System Simulation with Detailed Modeling of All SSD Resources 
++ (**Eurosys'18**) FlashAbacus: A Self-governing Flash-based Accelerator for Low-power Systems 
++ (**HPCA'16**) DUANG: Fast and Lightweight Page Migration in Asymmetric Memory Systems 
++ (**PACT'15**) NVMMU: A Non-Volatile Memory Management Unit for Heterogeneous GPU-SSD Architectures 
++ (**HotStorage**) Power, Energy and Thermal Considerations in SSD-Based I/O Acceleration
 
 <!-- This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
 
