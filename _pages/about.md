@@ -24,6 +24,7 @@ I am currently engaged in the research and design of storage systems and special
 ----
 
 ## News:
++ **July 2024**: Two papers are accepted to TC and ToS.
 + **May 2024**: Invited to serve as PC of HPCA.
 + **May 2024**: Two papers are accepted to USENIX ATC'24. Congratulations to Shushu Yi, Li Peng, Xiurui and Yuda!
 + **April 2024**: One paper is accepted to TACO.
