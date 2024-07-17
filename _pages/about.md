@@ -24,6 +24,7 @@ I am currently engaged in the research and design of storage systems and special
 ----
 
 ## News:
++ **July 2024**: Two papers are accepted to MICRO'24.
 + **July 2024**: Two papers are accepted to TC and ToS.
 + **May 2024**: Invited to serve as PC of HPCA.
 + **May 2024**: Two papers are accepted to USENIX ATC'24. Congratulations to Shushu Yi, Li Peng, Xiurui and Yuda!
@@ -60,6 +61,8 @@ I am currently engaged in the research and design of storage systems and special
 ----
 
 ## Selected Publications:
++ (**MICRO'24**) FlashLLM: A Chiplet-Based In-Flash Computing Architecture to Enable On-Device Inference of 70B LLM
++ (**MICRO'24**) NeoMem: Hardware/Software Co-Design for CXL-Native Memory Tiering 
 + (**USENIX ATC'24**) ScalaCache: Scalable User-Space Page Cache Management with Software-Hardware Coordination
 + (**USENIX ATC'24**) ScalaAFA: Constructing User-Space All-Flash Array Engine with Holistic Designs
 + (**ISCA'24**) Flagger: Cooperative Acceleration for Large-Scale Cross-Silo Federated Learning Aggregation
