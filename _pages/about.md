@@ -24,6 +24,7 @@ I am currently engaged in the research and design of storage systems and special
 ----
 
 ## News:
++ **August 2024**: BIZA is accepted to SOSP'24. Congratulations to Shushu, Shaocong and Li Peng!
 + **July 2024**: Two papers are accepted to MICRO'24.
 + **July 2024**: Two papers are accepted to TC and ToS.
 + **May 2024**: Invited to serve as PC of HPCA.
@@ -61,6 +62,7 @@ I am currently engaged in the research and design of storage systems and special
 ----
 
 ## Selected Publications:
++ (**SOSP'24**) BIZA: Design of Self-Governing Block-Interface ZNS AFA for Endurance and Performance 
 + (**MICRO'24**) FlashLLM: A Chiplet-Based In-Flash Computing Architecture to Enable On-Device Inference of 70B LLM
 + (**MICRO'24**) NeoMem: Hardware/Software Co-Design for CXL-Native Memory Tiering 
 + (**USENIX ATC'24**) ScalaCache: Scalable User-Space Page Cache Management with Software-Hardware Coordination
