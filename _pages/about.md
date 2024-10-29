@@ -24,7 +24,7 @@ I am currently engaged in the research and design of storage systems and special
 ----
 
 ## News:
-+ **October 2024**: Invited to serve as PC of USENIX ATC and ISCA.
++ **October 2024**: Invited to serve as PC of USENIX ATC, ISCA and ISPASS.
 + **August 2024**: BIZA is accepted to SOSP'24. Congratulations to Shushu, Shaocong and Li Peng!
 + **July 2024**: Two papers are accepted to MICRO'24.
 + **July 2024**: Two papers are accepted to TC and ToS.
