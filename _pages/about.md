@@ -24,6 +24,7 @@ I am currently engaged in the research and design of storage systems and special
 ----
 
 ## News:
++ **November 2024**: Three papers are accepted to HPCA'25. Congratulations to Xiurui and Endian! 
 + **October 2024**: Invited to serve as PC of USENIX ATC, ISCA and ISPASS.
 + **August 2024**: BIZA is accepted to SOSP'24. Congratulations to Shushu, Shaocong and Li Peng!
 + **July 2024**: Two papers are accepted to MICRO'24.
@@ -63,6 +64,9 @@ I am currently engaged in the research and design of storage systems and special
 ----
 
 ## Selected Publications:
++ (**HPCA'25**) InstAttention: In-Storage Attention Offloading for Cost-Effective Long-Context LLM Inference
++ (**HPCA'25**) Criticality-Aware Instruction-Centric Bandwidth Partitioning for Data Center Applications
++ (**HPCA'25**) NeuVSA: A Unified and Efficient Accelerator for Neural Vector Search
 + (**SOSP'24**) BIZA: Design of Self-Governing Block-Interface ZNS AFA for Endurance and Performance 
 + (**MICRO'24**) FlashLLM: A Chiplet-Based In-Flash Computing Architecture to Enable On-Device Inference of 70B LLM
 + (**MICRO'24**) NeoMem: Hardware/Software Co-Design for CXL-Native Memory Tiering 
