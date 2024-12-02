@@ -14,6 +14,6 @@ The deployment of powerful Large Language Models (LLMs) as AI assistants on edge
 To address these issues, we introduce FlashLLM, a chiplet-based hybrid architecture designed for on-device inference of 70B LLM. FlashLLM features a dedicated flash chip connected directly to NPU through chiplet technology.
 The flash not only stores model weight matrices but also leverages on-die processing capabilities to reduce data transfers to NPU, thereby mitigating both the footprint and bandwidth limitations. The NPU, in addition to collaborating with flash for matrix operations, is also responsible for managing the key-value cache (KV cache) in DRAM and performing special function computations that exceed the on-die processing capabilities of the flash. Overall, FlashLLM enables the on-device inference of 70B LLMs at a speed of 3.44 token/s, and 7B LLMs at a speed of 36.34 token/s, which is over 22× to 45× faster than existing flash-offloading technologies.
 
-[Paper download](N/A)
+[Paper download](https://arxiv.org/abs/2409.15654)
 
 Recommended citation: .
