@@ -24,6 +24,7 @@ I am currently engaged in the research and design of storage systems and special
 ----
 
 ## News:
++ **November 2024**: One paper is accepted to NSDI'25.
 + **November 2024**: Three papers are accepted to HPCA'25. Congratulations to Xiurui and Endian! 
 + **October 2024**: Invited to serve as PC of USENIX ATC, ISCA and ISPASS.
 + **August 2024**: BIZA is accepted to SOSP'24. Congratulations to Shushu, Shaocong and Li Peng!
@@ -64,6 +65,7 @@ I am currently engaged in the research and design of storage systems and special
 ----
 
 ## Selected Publications:
++ (**NSDI‘25**) Beehive: A Scalable Disaggregated Memory Runtime Exploiting Asynchrony of Multithreaded Programs
 + (**HPCA'25**) InstAttention: In-Storage Attention Offloading for Cost-Effective Long-Context LLM Inference
 + (**HPCA'25**) Criticality-Aware Instruction-Centric Bandwidth Partitioning for Data Center Applications
 + (**HPCA'25**) NeuVSA: A Unified and Efficient Accelerator for Neural Vector Search
