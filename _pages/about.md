@@ -24,6 +24,7 @@ I am currently engaged in the research and design of storage systems and special
 ----
 
 ## News:
++ **December 2024**: One paper is accepted to Eurosys'25.
 + **November 2024**: One paper is accepted to NSDI'25.
 + **November 2024**: Three papers are accepted to HPCA'25. Congratulations to Xiurui and Endian! 
 + **October 2024**: Invited to serve as PC of USENIX ATC, ISCA and ISPASS.
@@ -65,6 +66,7 @@ I am currently engaged in the research and design of storage systems and special
 ----
 
 ## Selected Publications:
++ (**Eurosys‘25**) Daredevil: Rescue Your Flash Storage from Inflexible Kernel Storage Stack
 + (**NSDI‘25**) Beehive: A Scalable Disaggregated Memory Runtime Exploiting Asynchrony of Multithreaded Programs
 + (**HPCA'25**) InstAttention: In-Storage Attention Offloading for Cost-Effective Long-Context LLM Inference
 + (**HPCA'25**) Criticality-Aware Instruction-Centric Bandwidth Partitioning for Data Center Applications
