@@ -40,28 +40,6 @@ I am currently engaged in the research and design of storage systems and special
 + **October 2023**: Invited to serve as ERC of ISCA.
 + **October 2023**: Four papers are accepted to HPCA'24. Congratulations to Yuda and Yuyue!
 + **August 2023**: Awarded Intel Young Faculty Researcher Program.
-+ **July 2023**: invited to serve as TPC of HPCA.
-+ **April 2023**: Awarded 1st prize in national storage technology competition. Congrats to Shushu Yi!
-+ **January 2023**: one paper is accepted to NVMW.
-+ **January 2023**: one paper is accepted to CAL.
-+ **December 2022**: one paper is accepted to SAC.
-+ **October 2022**: invited to serve as TPC of USENIX ATC and SAC. 
-+ **September 2022**: awarded ACM SIGCSE Rising Star!
-+ **July 2022**: one paper is accepted to THPC.
-+ **May 2022**: our paper "ScalaRAID" is accepted to HotStorage'22. Congrats to Shushu Yi!
-+ **April 2022**: two papers are accepted to NVMW'22.
-+ **December 2021**: awarded NSFC Excellent Young Scientists Fund Overseas Program (国家自然科学基金优秀青年科学基金海外项目)!
-+ **Sep 2021**: our work "HAMS" is selected as [KAIST breakthroughs 50 years](http://breakthroughs.kaist.ac.kr/?post_no=1954).
-+ **August 2021**: our work "OhmGPU" is reported by [Naver headline + 26](https://search.naver.com/search.naver?where=news&sm=tab_tnw&query=ohm%20GPU&sort=0&photo=0&field=0&pd=0&ds=&de=&mynews=0&office_type=0&office_section_code=0&news_office_checked=&related=1&docid=2770004947353&nso=so:r,p:all,a:all) and [Press](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/viewer.html?pdfurl=http%3A%2F%2Fcamelab.org%2Fuploads%2FMain%2Fohgpu.pdf&clen=447529&chunk=true).
-+ **July 2021**: one paper is accepted to MICRO'21.
-+ **April 2021**: three papers are accepted to NVMW'21.
-+ **March 2021**: our work "HAMS" is reported by [Naver headline + 39](https://search.naver.com/search.naver?where=news&sm=tab_tnw&query=%ED%85%8C%EB%9D%BC%EB%B0%94%EC%9D%B4%ED%8A%B8&sort=0&photo=0&field=0&pd=0&ds=&de=&mynews=0&office_type=0&office_section_code=0&news_office_checked=&related=1&docid=50360000134412&nso=so:r,p:all,a:all), [KBS](https://news.kbs.co.kr/news/view.do?ncd=5140379&ref=A) and [Press](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/viewer.html?pdfurl=http%3A%2F%2Fcamelab.org%2Fuploads%2FMain%2Fterabyte.pdf&clen=866764&chunk=true).
-+ **Feb 2021**: one paper is accepted to ISCA'21.
-+ **June 2020**: one paper is accepted to ISCA'20.
-+ **Feb 2020**: one paper is accepted to HPCA'20.
-+ **Feb 2020**: one paper is accpeted to FAST'20.
-+ **Feb 2020**: join KAIST as a postdoctoral researcher.
-+ **Dec 2019**: successfully defend PhD thesis.
 
 ----
 
