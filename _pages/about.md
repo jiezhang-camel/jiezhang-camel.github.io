@@ -41,7 +41,8 @@ I am currently engaged in the research and design of storage systems and special
 + **October 2023**: Invited to serve as ERC of ISCA.
 + **October 2023**: Four papers are accepted to HPCA'24. Congratulations to Yuda and Yuyue!
 + **August 2023**: Awarded Intel Young Faculty Researcher Program.
-<!-- + **July 2023**: invited to serve as TPC of HPCA.
+<!-- 
++ **July 2023**: invited to serve as TPC of HPCA.
 + **April 2023**: Awarded 1st prize in national storage technology competition. Congrats to Shushu Yi!
 + **January 2023**: one paper is accepted to NVMW.
 + **January 2023**: one paper is accepted to CAL.
@@ -64,6 +65,7 @@ I am currently engaged in the research and design of storage systems and special
 + **Feb 2020**: join KAIST as a postdoctoral researcher.
 + **Dec 2019**: successfully defend PhD thesis.
 -->
+
 ----
 
 ## Selected Publications:
