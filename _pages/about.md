@@ -24,6 +24,7 @@ I am currently engaged in the research and design of storage systems and special
 ----
 
 ## News:
++ **Febuary 2025**: Invited to serve as PC of MICRO.
 + **December 2024**: One paper is accepted to Eurosys'25.
 + **November 2024**: One paper is accepted to NSDI'25.
 + **November 2024**: Three papers are accepted to HPCA'25. Congratulations to Xiurui and Endian! 
