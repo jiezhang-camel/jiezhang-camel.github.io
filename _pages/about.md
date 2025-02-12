@@ -41,7 +41,7 @@ I am currently engaged in the research and design of storage systems and special
 + **October 2023**: Invited to serve as ERC of ISCA.
 + **October 2023**: Four papers are accepted to HPCA'24. Congratulations to Yuda and Yuyue!
 + **August 2023**: Awarded Intel Young Faculty Researcher Program.
-<!-- 
+<div style="display:none">
 + **July 2023**: invited to serve as TPC of HPCA.
 + **April 2023**: Awarded 1st prize in national storage technology competition. Congrats to Shushu Yi!
 + **January 2023**: one paper is accepted to NVMW.
@@ -64,7 +64,7 @@ I am currently engaged in the research and design of storage systems and special
 + **Feb 2020**: one paper is accpeted to FAST'20.
 + **Feb 2020**: join KAIST as a postdoctoral researcher.
 + **Dec 2019**: successfully defend PhD thesis.
--->
+</div>
 
 ----
 
@@ -139,3 +139,4 @@ Example: editing a markdown file for a talk
 For more info
 ------
 More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful. 
+-->
