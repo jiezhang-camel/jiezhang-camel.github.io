@@ -25,16 +25,16 @@ author_profile: true
 <tr><td><div style="width: 150px;"><img src="/images/people/Jianqiang-Zeng-PhD.jpg" /></div></td><td>Jianqiang Zeng (BS from Tsinghua University, Ph.D started 2024, co-adivsed by Prof. Yingwei Luo)</td></tr>
 
 # Undergraduate Students
+Minxing Chu, 4th year, Peking University<br>
 Guoci Chen, 3rd year, Peking University<br>
 Keyang Zheng, 3rd year, Peking University<br>
-Minxing Chu, 4th year, Peking University<br>
 Jinliang You, 2nd year, Peking University<br>
 
 
 # Alumni
-Yunxiao Tang, Ph.D@Harvard University, 2022<br>
-Yue Chen, Ph.D@KAIST, 2022<br>
-Yanning Yang, MS@SJTU, 2022<br>
-Zeyu Li, Ph.D@HKUSTGZ, 2023<br>
-Junzhe Li, Ph.D@HKU, 2023<br>
-Dahua Feng, Ph.D@Virginia Tech, 2024<br>
+[Yunxiao Tang](https://eps.harvard.edu/people/yunxiao-tang), Ph.D @ Harvard University, 2022<br>
+[Yue Chen](https://ecl.kaist.ac.kr/members), MS @ KAIST, 2022<br>
+Yanning Yang, MS @ SJTU, 2022<br>
+[Zeyu Li](https://zeyuli.cn/), Ph.D @ HKUSTGZ, 2023<br>
+Junzhe Li, Ph.D @ HKU, 2023<br>
+Dahua Feng, Ph.D @ Virginia Tech, 2024<br>
