@@ -24,6 +24,11 @@ author_profile: true
 <tr><td><div style="width: 150px;"><img src="/images/people/Xiran-Yang-PhD.jpg" /></div></td><td>Xiran Yang (BS from Wuhan University, Ph.D started 2022, co-adivsed by Prof. Yingwei Luo)</td></tr>
 <tr><td><div style="width: 150px;"><img src="/images/people/Jianqiang-Zeng-PhD.jpg" /></div></td><td>Jianqiang Zeng (BS from Tsinghua University, Ph.D started 2024, co-adivsed by Prof. Yingwei Luo)</td></tr>
 
+# Interns
+Yuyue Wang, Ph.D, UCLA<br>
+Junhao Zhu, Ph.D, NUDT<br>
+Yifei Yu, Ph.D, HUST<br>
+
 # Undergraduate Students
 Minxing Chu, 4th year, Peking University<br>
 Guoci Chen, 3rd year, Peking University<br>
