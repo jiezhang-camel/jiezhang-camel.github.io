@@ -21,8 +21,8 @@ author_profile: true
 <tr><td><div style="width: 150px;"><img src="/images/people/Shaocong-Sun-PhD.jpg" /></div></td><td>Shaocong Sun (BS from Peking University, Ph.D started 2024)</td></tr>
 <tr><td><div style="width: 150px;"><img src="/images/people/Endian-Li-PhD.jpg" /></div></td><td>Endian Li (BS from Peking University, Ph.D started 2025)</td></tr>
 <tr><td><div style="width: 150px;"><img src="/images/people/Wenbo-Wu-PhD.jpg" /></div></td><td>Wenbo Wu (BS from Huazhong University of Science and Technology, Ph.D started 2025)</td></tr>
-<tr><td><div style="width: 150px;"><img src="/images/people/Xiran-Yang-PhD.jpg" /></div></td><td>Xiran Yang (BS from Wuhan University, Ph.D started 2022, co-adivsed by Prof. Yingwei Luo)</td></tr>
-<tr><td><div style="width: 150px;"><img src="/images/people/Jianqiang-Zeng-PhD.jpg" /></div></td><td>Jianqiang Zeng (BS from Tsinghua University, Ph.D started 2024, co-adivsed by Prof. Yingwei Luo)</td></tr>
+<tr><td><div style="width: 150px;"><img src="/images/people/Xiran-Yang-PhD.jpg" /></div></td><td>Xiran Yang (BS from Wuhan University, Ph.D started 2022, co-advised by Prof. Yingwei Luo)</td></tr>
+<tr><td><div style="width: 150px;"><img src="/images/people/Jianqiang-Zeng-PhD.jpg" /></div></td><td>Jianqiang Zeng (BS from Tsinghua University, Ph.D started 2024, co-advised by Prof. Yingwei Luo)</td></tr>
 
 # Interns
 [Yuyue Wang](https://web.cs.ucla.edu/~yuyue/), Ph.D, UCLA<br>
