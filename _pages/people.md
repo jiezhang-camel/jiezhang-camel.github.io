@@ -6,7 +6,8 @@ author_profile: true
 
 # Principle Investigator
 
-<img src="/images/jie_img1.jpg" width: 150px />
+<img src="/images/jie_img1.jpg" width=150px />
+
 ## Jie Zhang, Ph.D
 
 ---
