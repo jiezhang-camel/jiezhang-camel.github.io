@@ -37,9 +37,9 @@ Jinliang You, 2nd year, Peking University<br>
 
 
 # Alumni
-[Yunxiao Tang](https://eps.harvard.edu/people/yunxiao-tang), Ph.D @ Harvard University, 2022<br>
-[Yue Chen](https://ecl.kaist.ac.kr/members), MS @ KAIST, 2022<br>
-Yanning Yang, MS @ SJTU, 2022<br>
 [Zeyu Li](https://zeyuli.cn/), Ph.D @ HKUSTGZ, 2023<br>
 Junzhe Li, Ph.D @ HKU, 2023<br>
 Dahua Feng, Ph.D @ Virginia Tech, 2024<br>
+[Yunxiao Tang](https://eps.harvard.edu/people/yunxiao-tang), Ph.D @ Harvard University, 2022<br>
+[Yue Chen](https://ecl.kaist.ac.kr/members), MS @ KAIST, 2022<br>
+Yanning Yang, MS @ SJTU, 2022<br>
