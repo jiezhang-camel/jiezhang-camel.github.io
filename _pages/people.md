@@ -25,9 +25,9 @@ author_profile: true
 <tr><td><div style="width: 150px;"><img src="/images/people/Jianqiang-Zeng-PhD.jpg" /></div></td><td>Jianqiang Zeng (BS from Tsinghua University, Ph.D started 2024, co-advised by Prof. Yingwei Luo)</td></tr>
 
 # Interns
-[Yuyue Wang](https://web.cs.ucla.edu/~yuyue/), Ph.D, UCLA<br>
-Junhao Zhu, Ph.D, NUDT<br>
-Yifei Yu, Ph.D, HUST<br>
+Junhao Zhu, Ph.D, NUDT, 2024-present<br>
+[Yuyue Wang](https://web.cs.ucla.edu/~yuyue/), Ph.D, UCLA, 2023-2024<br>
+Yifei Yu, Ph.D, HUST, Spring 2024-Summer 2024<br>
 
 # Undergraduate Students
 Minxing Chu, 4th year, Peking University<br>
