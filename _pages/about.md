@@ -24,6 +24,7 @@ I am currently engaged in the research and design of storage systems and special
 ----
 
 ## News:
++ **March 2025**: Two papers are accepted to ISCA'25. Congratulations to Li Peng and Wenbo! 
 + **Febuary 2025**: Invited to serve as PC of MICRO.
 + **December 2024**: One paper is accepted to Eurosys'25.
 + **November 2024**: One paper is accepted to NSDI'25.
@@ -69,6 +70,8 @@ I am currently engaged in the research and design of storage systems and special
 ----
 
 ## Selected Publications:
++ (**ISCA‘25**) XHarvest: Rethinking High-Performance and Cost-Efficient SSD Architecture with CXL-Driven Harvesting
++ (**ISCA‘25**) ArtMem: Adaptive Migration in Reinforcement Learning-Enabled Tiered Memory
 + (**Eurosys‘25**) Daredevil: Rescue Your Flash Storage from Inflexible Kernel Storage Stack
 + (**NSDI‘25**) Beehive: A Scalable Disaggregated Memory Runtime Exploiting Asynchrony of Multithreaded Programs
 + (**HPCA'25**) InstAttention: In-Storage Attention Offloading for Cost-Effective Long-Context LLM Inference
