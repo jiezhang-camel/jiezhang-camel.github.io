@@ -24,6 +24,8 @@ I am currently engaged in the research and design of storage systems and special
 ----
 
 ## News:
++ **May 2025**: One invited paper is accepted to ToS. Congratulations to Shushu!
++ **May 2025**: FlexHMB is accepted to TCAD. Congratulations to Li Peng!
 + **March 2025**: Two papers are accepted to ISCA'25. Congratulations to Li Peng and Wenbo! 
 + **Febuary 2025**: Invited to serve as PC of MICRO.
 + **December 2024**: One paper is accepted to Eurosys'25.
