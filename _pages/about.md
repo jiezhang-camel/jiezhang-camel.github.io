@@ -24,6 +24,7 @@ I am currently engaged in the research and design of storage systems and special
 ----
 
 ## News:
++ **May 2025**: Invited to serve as PC of HPCA.
 + **May 2025**: One paper is accepted to ICDE'25.
 + **May 2025**: One invited paper is accepted to ToS. Congratulations to Shushu!
 + **May 2025**: FlexHMB is accepted to TCAD. Congratulations to Li Peng!

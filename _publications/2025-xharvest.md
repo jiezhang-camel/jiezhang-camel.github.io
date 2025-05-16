@@ -1,7 +1,7 @@
 ---
 title: "XHarvest: Rethinking High-Performance and Cost-Efficient SSD Architecture with CXL-Driven Harvesting"
 collection: publications
-permalink: /publication/2024-flagger
+permalink: /publication/2025-xharvest
 excerpt: 'We propose XHarvest, a new cost-efficient and high-performance SSD architecture, which harnesses compute express link (CXL) and trusted execution environment (TEE) to facilitate dynamic, efficient, and secure host resource harvesting. It reserves moderate SSD internal resources to isolate SSD internal tasks and applications under regular I/O loads while coping with occasional I/O bursts via host resource harvesting…'
 date: 2025-06-01
 venue: 'IEEE/ACM International Symposium on Computer Architecture (ISCA)'

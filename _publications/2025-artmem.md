@@ -1,7 +1,7 @@
 ---
 title: "ArtMem: Adaptive Migration in Reinforcement Learning-Enabled Tiered Memory"
 collection: publications
-permalink: /publication/2024-flagger
+permalink: /publication/2025-artmem
 excerpt: 'This paper proposes ArtMem, a reinforcement learning (RL)-driven framework that dynamically manages tiered memory systems and adapts to workload evolution. ArtMem incorporates system-level feedback, such as access frequency, recency, and migration counts, for adaptive page migrations. ArtMem enables better placement of memory pages, enhancing system performance while reducing unnecessary migrations…'
 date: 2025-06-01
 venue: 'IEEE/ACM International Symposium on Computer Architecture (ISCA)'
