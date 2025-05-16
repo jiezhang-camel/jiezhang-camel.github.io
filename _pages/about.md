@@ -74,10 +74,10 @@ I am currently engaged in the research and design of storage systems and special
 ----
 
 ## Selected Publications:
-+ (**ISCA‘25**) XHarvest: Rethinking High-Performance and Cost-Efficient SSD Architecture with CXL-Driven Harvesting
-+ (**ISCA‘25**) ArtMem: Adaptive Migration in Reinforcement Learning-Enabled Tiered Memory
-+ (**Eurosys‘25**) Daredevil: Rescue Your Flash Storage from Inflexible Kernel Storage Stack
-+ (**NSDI‘25**) Beehive: A Scalable Disaggregated Memory Runtime Exploiting Asynchrony of Multithreaded Programs
++ (**ISCA'25**) XHarvest: Rethinking High-Performance and Cost-Efficient SSD Architecture with CXL-Driven Harvesting
++ (**ISCA'25**) ArtMem: Adaptive Migration in Reinforcement Learning-Enabled Tiered Memory
++ (**Eurosys'25**) Daredevil: Rescue Your Flash Storage from Inflexible Kernel Storage Stack
++ (**NSDI'25**) Beehive: A Scalable Disaggregated Memory Runtime Exploiting Asynchrony of Multithreaded Programs
 + (**HPCA'25**) InstAttention: In-Storage Attention Offloading for Cost-Effective Long-Context LLM Inference
 + (**HPCA'25**) Criticality-Aware Instruction-Centric Bandwidth Partitioning for Data Center Applications
 + (**HPCA'25**) NeuVSA: A Unified and Efficient Accelerator for Neural Vector Search
