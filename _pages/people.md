@@ -30,13 +30,13 @@ Junhao Zhu, Ph.D, NUDT, 2024-present<br>
 Yifei Yu, Ph.D, HUST, Spring 2024-Summer 2024<br>
 
 # Undergraduate Students
-Minxing Chu, 4th year, Peking University<br>
 Guoci Chen, 3rd year, Peking University<br>
 Keyang Zheng, 3rd year, Peking University<br>
 Jinliang You, 2nd year, Peking University<br>
 
 
 # Alumni
+Minxing Chu, MS @ Brown University, 2025<br>
 [Zeyu Li](https://zeyuli.cn/), Ph.D @ HKUSTGZ, 2023<br>
 Junzhe Li, Ph.D @ HKU, 2023<br>
 Dahua Feng, Ph.D @ Virginia Tech, 2024<br>
