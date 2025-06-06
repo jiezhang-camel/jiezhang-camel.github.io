@@ -69,17 +69,17 @@ Service and leadership
   * IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems
 
 * Conference Paper Review/Sub-review
-  * ISCA‘24 ’23
-  * MICRO‘25 ’24 ’23 ’18 ’16
-  * HPCA‘26 ’25 ’24 ‘23 ’18 ’16
-  * ATC‘25 ’23
-  * ASPLOS’19 ’18 ’17
-  * DATE’19
-  * IPDPS’18 ’16
-  * ICCD’19 ’18 ’17 ’15
-  * DAC’20 ’19
-  * NVMSA’17 ’16
-  * HotStorage’20
+  * ISCA'24 '23
+  * MICRO'25 '24 '23 '18 '16
+  * HPCA'26 '25 '24 '23 '18 '16
+  * ATC'25 '23
+  * ASPLOS'19 '18 '17
+  * DATE'19
+  * IPDPS'18 '16
+  * ICCD'19 '18 '17 '15
+  * DAC'20 '19
+  * NVMSA'17 '16
+  * HotStorage'20
 
 Honors
 ======
