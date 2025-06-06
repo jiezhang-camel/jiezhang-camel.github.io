@@ -56,6 +56,9 @@ Teaching
   
 Service and leadership
 ======
+* Guest Editor
+   * IEEE MICRO
+
 * Journal Paper Review/Sub-review
   * IEEE Transactions on Computer
   * ACM Transactions on Storage
@@ -66,8 +69,10 @@ Service and leadership
   * IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems
 
 * Conference Paper Review/Sub-review
-  * MICRO’18 ’16
-  * HPCA’18 ’16
+  * ISCA‘24 ’23
+  * MICRO‘25 ’24 ’23 ’18 ’16
+  * HPCA‘26 ’25 ’24 ‘23 ’18 ’16
+  * ATC‘25 ’23
   * ASPLOS’19 ’18 ’17
   * DATE’19
   * IPDPS’18 ’16
@@ -78,6 +83,8 @@ Service and leadership
 
 Honors
 ======
+* 2023 Intel Young Faculty Researcher Program
+* 2022 NSFC Excellent Young Scientists Fund Overseas Program
 * 2015 ACM Student Research Competition 2nd Runner Award
 * 2018 OSDI travel grant
 * 2020 HPCA travel grant
