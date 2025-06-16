@@ -31,8 +31,8 @@ Yifei Yu, Ph.D, HUST, Spring 2024-Summer 2024<br>
 
 # Undergraduate Students
 Guoci Chen, 3rd year, Peking University<br>
-Keyang Zheng, 3rd year, Peking University<br>
-Jinliang You, 2nd year, Peking University<br>
+Junrong Zhu, 3rd year, Nanjing University<br>
+Chuyu Zhang, 3rd year, Peking University<br>
 
 
 # Alumni
