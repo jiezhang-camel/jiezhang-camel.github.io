@@ -24,6 +24,7 @@ I am currently engaged in the research and design of storage systems and special
 ----
 
 ## News:
++ **June 2025**: Awarded OlympusMons Awards.
 + **May 2025**: SPDK+ is accepted to HotStorage'25. Congratulations to Endian!
 + **May 2025**: Invited to serve as PC of HPCA.
 + **May 2025**: One paper is accepted to ICDE'25.
