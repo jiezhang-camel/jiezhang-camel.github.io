@@ -25,7 +25,6 @@ I am currently engaged in the research and design of storage systems and special
 
 ## News:
 + **July 2025**: Inducted to HPCA Hall of Fame.
-+ **June 2025**: Awarded OlympusMons Awards.
 + **May 2025**: SPDK+ is accepted to HotStorage'25. Congratulations to Endian!
 + **May 2025**: Invited to serve as PC of HPCA.
 + **May 2025**: One paper is accepted to ICDE'25.
@@ -50,6 +49,7 @@ I am currently engaged in the research and design of storage systems and special
 + **October 2023**: Four papers are accepted to HPCA'24. Congratulations to Yuda and Yuyue!
 + **August 2023**: Awarded Intel Young Faculty Researcher Program.
 <div style="display:none">
++ **June 2025**: Awarded OlympusMons Awards.
 + **July 2023**: invited to serve as TPC of HPCA.
 + **April 2023**: Awarded 1st prize in national storage technology competition. Congrats to Shushu Yi!
 + **January 2023**: one paper is accepted to NVMW.

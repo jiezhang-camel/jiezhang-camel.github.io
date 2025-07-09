@@ -84,7 +84,6 @@ Service and leadership
 Honors
 ======
 * 2025 HPCA Hall of Fame
-* 2025 OlympusMons Awards
 * 2023 ACM SIGCSE Rising Star
 * 2023 Intel Young Faculty Researcher Program
 * 2022 NSFC Excellent Young Scientists Fund Overseas Program
