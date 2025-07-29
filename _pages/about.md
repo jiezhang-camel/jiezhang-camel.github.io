@@ -24,6 +24,8 @@ I am currently engaged in the research and design of storage systems and special
 ----
 
 ## News:
++ **July 2025**: One paper is accepted to CELL NEWTON.
++ **July 2025**: One paper is accepted to SOSP'25.
 + **July 2025**: Inducted to HPCA Hall of Fame.
 + **May 2025**: SPDK+ is accepted to HotStorage'25. Congratulations to Endian!
 + **May 2025**: Invited to serve as PC of HPCA.
@@ -77,6 +79,7 @@ I am currently engaged in the research and design of storage systems and special
 ----
 
 ## Selected Publications:
++ (**SOSP'25**) Aeolia: Fast and Secure Userspace Interrupt-Based Storage Stack
 + (**ISCA'25**) XHarvest: Rethinking High-Performance and Cost-Efficient SSD Architecture with CXL-Driven Harvesting
 + (**ISCA'25**) ArtMem: Adaptive Migration in Reinforcement Learning-Enabled Tiered Memory
 + (**Eurosys'25**) Daredevil: Rescue Your Flash Storage from Inflexible Kernel Storage Stack
