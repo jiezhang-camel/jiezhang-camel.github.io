@@ -81,6 +81,7 @@ I am currently engaged in the research and design of storage systems and special
 ----
 
 ## Selected Publications:
++ (**PACT'25**) Exploring Memory Tiering Systems in the CXL Era via FPGA-based Emulation and Device-Side Management
 + (**SOSP'25**) Aeolia: Fast and Secure Userspace Interrupt-Based Storage Stack
 + (**ISCA'25**) XHarvest: Rethinking High-Performance and Cost-Efficient SSD Architecture with CXL-Driven Harvesting
 + (**ISCA'25**) ArtMem: Adaptive Migration in Reinforcement Learning-Enabled Tiered Memory
