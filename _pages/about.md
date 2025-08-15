@@ -24,6 +24,7 @@ I am currently engaged in the research and design of storage systems and special
 ----
 
 ## News:
++ **August 2025**: One paper is accepted to PACT'25.
 + **August 2025**: Invited to serve as PC of OSDI.
 + **July 2025**: One paper is accepted to CELL NEWTON.
 + **July 2025**: One paper is accepted to SOSP'25.
