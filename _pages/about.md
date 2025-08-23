@@ -24,6 +24,7 @@ I am currently engaged in the research and design of storage systems and special
 ----
 
 ## News:
++ **August 2025**: One paper is accepted to Eurosys'26.
 + **August 2025**: One paper is accepted to PACT'25.
 + **August 2025**: Invited to serve as PC of OSDI.
 + **July 2025**: One paper is accepted to CELL NEWTON.
@@ -81,6 +82,7 @@ I am currently engaged in the research and design of storage systems and special
 ----
 
 ## Selected Publications:
++ (**Eurosys'26**) ColdCode: Cold Data Encoding for Enhanced Reliability and Lifetime in 3D NAND Flash
 + (**PACT'25**) Exploring Memory Tiering Systems in the CXL Era via FPGA-based Emulation and Device-Side Management
 + (**SOSP'25**) Aeolia: Fast and Secure Userspace Interrupt-Based Storage Stack
 + (**ISCA'25**) XHarvest: Rethinking High-Performance and Cost-Efficient SSD Architecture with CXL-Driven Harvesting
