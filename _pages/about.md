@@ -24,6 +24,7 @@ I am currently engaged in the research and design of storage systems and special
 ----
 
 ## News:
++ **September 2025**: Awarded HUAWEI OlympusMons Awards.
 + **September 2025**: One paper is accepted to TCAD.
 + **August 2025**: One paper is accepted to Eurosys'26.
 + **August 2025**: One paper is accepted to PACT'25.
