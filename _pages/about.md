@@ -24,6 +24,7 @@ I am currently engaged in the research and design of storage systems and special
 ----
 
 ## News:
++ **November 2025**: One paper is accepted to HPCA'26.
 + **September 2025**: Awarded HUAWEI OlympusMons Awards.
 + **September 2025**: One paper is accepted to TCAD.
 + **August 2025**: One paper is accepted to Eurosys'26.
@@ -56,7 +57,6 @@ I am currently engaged in the research and design of storage systems and special
 + **October 2023**: Four papers are accepted to HPCA'24. Congratulations to Yuda and Yuyue!
 + **August 2023**: Awarded Intel Young Faculty Researcher Program.
 <div style="display:none">
-+ **June 2025**: Awarded OlympusMons Awards.
 + **July 2023**: invited to serve as TPC of HPCA.
 + **April 2023**: Awarded 1st prize in national storage technology competition. Congrats to Shushu Yi!
 + **January 2023**: one paper is accepted to NVMW.
@@ -84,6 +84,7 @@ I am currently engaged in the research and design of storage systems and special
 ----
 
 ## Selected Publications:
++ (**HPCA'26**) AutoGNN: End-to-End Hardware-Driven Graph Preprocessing for Enhanced GNN Performance
 + (**Eurosys'26**) ColdCode: Cold Data Encoding for Enhanced Reliability and Lifetime in 3D NAND Flash
 + (**PACT'25**) Exploring Memory Tiering Systems in the CXL Era via FPGA-based Emulation and Device-Side Management
 + (**SOSP'25**) Aeolia: Fast and Secure Userspace Interrupt-Based Storage Stack
