@@ -24,6 +24,7 @@ I am currently engaged in the research and design of storage systems and special
 ----
 
 ## News:
++ **December 2025**: Xerxes is accepted to FAST'26. Congratulations to Yuda and Shushu!
 + **November 2025**: One paper is accepted to HPCA'26.
 + **September 2025**: Awarded HUAWEI OlympusMons Awards.
 + **September 2025**: One paper is accepted to TCAD.
@@ -84,6 +85,7 @@ I am currently engaged in the research and design of storage systems and special
 ----
 
 ## Selected Publications:
++ (**FAST'26**) Xerxes: Extensive Exploration of Scalable Hardware Systems with CXL-Based Simulation Framework 
 + (**HPCA'26**) AutoGNN: End-to-End Hardware-Driven Graph Preprocessing for Enhanced GNN Performance
 + (**Eurosys'26**) ColdCode: Cold Data Encoding for Enhanced Reliability and Lifetime in 3D NAND Flash
 + (**PACT'25**) Exploring Memory Tiering Systems in the CXL Era via FPGA-based Emulation and Device-Side Management
