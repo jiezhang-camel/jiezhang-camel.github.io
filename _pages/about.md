@@ -24,6 +24,7 @@ I am currently engaged in the research and design of storage systems and special
 ----
 
 ## News:
++ **January 2025**: LouisKV is accepted to ICLR'26. Congratulations to Wenbo!
 + **December 2025**: Xerxes is accepted to FAST'26. Congratulations to Yuda and Shushu!
 + **November 2025**: One paper is accepted to HPCA'26.
 + **September 2025**: Awarded HUAWEI OlympusMons Awards.
