@@ -86,6 +86,7 @@ I am currently engaged in the research and design of storage systems and special
 ----
 
 ## Selected Publications:
++ (**ICLR'26**) LouisKV: Efficient KV Cache Retrieval for Long Input-Output Sequences
 + (**FAST'26**) Xerxes: Extensive Exploration of Scalable Hardware Systems with CXL-Based Simulation Framework 
 + (**HPCA'26**) AutoGNN: End-to-End Hardware-Driven Graph Preprocessing for Enhanced GNN Performance
 + (**Eurosys'26**) ColdCode: Cold Data Encoding for Enhanced Reliability and Lifetime in 3D NAND Flash
