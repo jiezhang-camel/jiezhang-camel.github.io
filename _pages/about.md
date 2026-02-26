@@ -24,6 +24,7 @@ I am currently engaged in the research and design of storage systems and special
 ----
 
 ## News:
++ **Febuary 2026**: Two papers are accepted to DAC'26. 
 + **January 2026**: LouisKV is accepted to ICLR'26. Congratulations to Wenbo!
 + **December 2025**: Xerxes is accepted to FAST'26. Congratulations to Yuda and Shushu!
 + **November 2025**: One paper is accepted to HPCA'26.
@@ -86,6 +87,8 @@ I am currently engaged in the research and design of storage systems and special
 ----
 
 ## Selected Publications:
++ (**DAC'26**) Cachence: Fine-Grained Cache Partitioning in Both Time and Space
++ (**DAC'26**) WILL: Write Invalidation Skipping for QLC NAND by Leveraging Data Lifespan and Latency Awareness
 + (**ICLR'26**) LouisKV: Efficient KV Cache Retrieval for Long Input-Output Sequences
 + (**FAST'26**) Xerxes: Extensive Exploration of Scalable Hardware Systems with CXL-Based Simulation Framework 
 + (**HPCA'26**) AutoGNN: End-to-End Hardware-Driven Graph Preprocessing for Enhanced GNN Performance
