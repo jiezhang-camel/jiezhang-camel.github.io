@@ -24,6 +24,7 @@ I am currently engaged in the research and design of storage systems and special
 ----
 
 ## News:
++ **March 2026**: Three papers are accepted to OSDI'26. Congratulations to Shushu and Yuda!
 + **Febuary 2026**: Two papers are accepted to DAC'26. 
 + **January 2026**: LouisKV is accepted to ICLR'26. Congratulations to Wenbo!
 + **December 2025**: Xerxes is accepted to FAST'26. Congratulations to Yuda and Shushu!
@@ -87,6 +88,9 @@ I am currently engaged in the research and design of storage systems and special
 ----
 
 ## Selected Publications:
++ (**OSDI'26**) Espresso: Constructing Cost-Efficient CXL JBOF via Inter-SSD  Computing Resource Sharing
++ (**OSDI'26**) Merlin: An Efficient Adaptive Cache Eviction Algorithm via  Fine-Grained Characterization
++ (**OSDI'26**) MultiLane: Eliminating Centralized Bottlenecks in User-space  Network Stack 
 + (**DAC'26**) Cachence: Fine-Grained Cache Partitioning in Both Time and Space
 + (**DAC'26**) WILL: Write Invalidation Skipping for QLC NAND by Leveraging Data Lifespan and Latency Awareness
 + (**ICLR'26**) LouisKV: Efficient KV Cache Retrieval for Long Input-Output Sequences
