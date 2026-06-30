@@ -90,34 +90,17 @@ I am currently engaged in the research and design of storage systems and special
 
 ## Selected Publications:
 + (**OSDI'26**) Espresso: Constructing Cost-Efficient CXL JBOF via Inter-SSD  Computing Resource Sharing
-+ (**OSDI'26**) Merlin: An Efficient Adaptive Cache Eviction Algorithm via  Fine-Grained Characterization
-+ (**OSDI'26**) MultiLane: Eliminating Centralized Bottlenecks in User-space  Network Stack 
-+ (**DAC'26**) Cachence: Fine-Grained Cache Partitioning in Both Time and Space
-+ (**DAC'26**) WILL: Write Invalidation Skipping for QLC NAND by Leveraging Data Lifespan and Latency Awareness
 + (**ICLR'26**) LouisKV: Efficient KV Cache Retrieval for Long Input-Output Sequences
 + (**FAST'26**) Xerxes: Extensive Exploration of Scalable Hardware Systems with CXL-Based Simulation Framework 
-+ (**HPCA'26**) AutoGNN: End-to-End Hardware-Driven Graph Preprocessing for Enhanced GNN Performance
 + (**Eurosys'26**) ColdCode: Cold Data Encoding for Enhanced Reliability and Lifetime in 3D NAND Flash
-+ (**PACT'25**) Exploring Memory Tiering Systems in the CXL Era via FPGA-based Emulation and Device-Side Management
-+ (**SOSP'25**) Aeolia: Fast and Secure Userspace Interrupt-Based Storage Stack
 + (**ISCA'25**) XHarvest: Rethinking High-Performance and Cost-Efficient SSD Architecture with CXL-Driven Harvesting
-+ (**ISCA'25**) ArtMem: Adaptive Migration in Reinforcement Learning-Enabled Tiered Memory
-+ (**Eurosys'25**) Daredevil: Rescue Your Flash Storage from Inflexible Kernel Storage Stack
-+ (**NSDI'25**) Beehive: A Scalable Disaggregated Memory Runtime Exploiting Asynchrony of Multithreaded Programs
 + (**HPCA'25**) InstAttention: In-Storage Attention Offloading for Cost-Effective Long-Context LLM Inference
-+ (**HPCA'25**) Criticality-Aware Instruction-Centric Bandwidth Partitioning for Data Center Applications
-+ (**HPCA'25**) NeuVSA: A Unified and Efficient Accelerator for Neural Vector Search
 + (**SOSP'24**) BIZA: Design of Self-Governing Block-Interface ZNS AFA for Endurance and Performance 
-+ (**MICRO'24**) FlashLLM: A Chiplet-Based In-Flash Computing Architecture to Enable On-Device Inference of 70B LLM
-+ (**MICRO'24**) NeoMem: Hardware/Software Co-Design for CXL-Native Memory Tiering 
 + (**USENIX ATC'24**) ScalaCache: Scalable User-Space Page Cache Management with Software-Hardware Coordination
 + (**USENIX ATC'24**) ScalaAFA: Constructing User-Space All-Flash Array Engine with Holistic Designs
 + (**ISCA'24**) Flagger: Cooperative Acceleration for Large-Scale Cross-Silo Federated Learning Aggregation
-+ (**ASPLOS'24**) Achieving Near-Zero Read Retry for 3D NAND Flash Memory
 + (**HPCA'24**) BeaconGNN: Large-Scale GNN Acceleration with Asynchronous In-Storage Computing 
 + (**HPCA'24**) StreamPIM: Streaming Matrix Computation in Racetrack Memory
-+ (**HPCA'24**) LearnedFTL: A Learning-based Page-level FTL for Reducing Double Reads in Flash-based SSDs 
-+ (**HPCA'24**) Midas Touch: Invalid-Data Assisted Reliability and Performance Boost for 3D High-Density Flash 
 + (**MICRO'21**) Ohm-GPU: Integrating New Optical Network and Heterogeneous Memory into GPU Multi-Processors 
 + (**ISCA'21**) Revamping Storage Class Memory With Hardware Automated Memory-Over-Storage Solution
 + (**ISCA'20**) ZnG: Architecting GPU Multi-Processors with New Flash for Scalable Data Analysis
