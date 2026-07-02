@@ -24,6 +24,7 @@ I am currently engaged in the research and design of storage systems and special
 ----
 
 ## News:
++ **July 2026**: One paper is accepted to SC'26.
 + **April 2026**: One paper is accepted to ICS'26.
 + **March 2026**: One paper is accepted to HPDC'26.
 + **March 2026**: Three papers are accepted to OSDI'26. Congratulations to Shushu and Yuda!
