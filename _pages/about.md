@@ -24,6 +24,7 @@ I am currently engaged in the research and design of storage systems and special
 ----
 
 ## News:
++ **July 2026**: LUTHE is accepted to MICRO'26.
 + **July 2026**: One paper is accepted to SC'26.
 + **April 2026**: One paper is accepted to ICS'26.
 + **March 2026**: One paper is accepted to HPDC'26.
@@ -91,6 +92,7 @@ I am currently engaged in the research and design of storage systems and special
 ----
 
 ## Selected Publications:
++ (**MICRO'26**) LUTHE: Breaking the Memory Wall of High-Precision Encrypted LLM Nonlinearities via GPU–CSD Co-Design 
 + (**OSDI'26**) Espresso: Constructing Cost-Efficient CXL JBOF via Inter-SSD  Computing Resource Sharing
 + (**ICLR'26**) LouisKV: Efficient KV Cache Retrieval for Long Input-Output Sequences
 + (**FAST'26**) Xerxes: Extensive Exploration of Scalable Hardware Systems with CXL-Based Simulation Framework 
