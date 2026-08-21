@@ -24,6 +24,7 @@ I am currently engaged in the research and design of storage systems and special
 ----
 
 ## News:
++ **August 2026**: One paper is accepted to Eurosys'27.
 + **July 2026**: LUTHE is accepted to MICRO'26.
 + **July 2026**: One paper is accepted to SC'26.
 + **April 2026**: One paper is accepted to ICS'26.
