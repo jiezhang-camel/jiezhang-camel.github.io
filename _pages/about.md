@@ -24,6 +24,7 @@ I am currently engaged in the research and design of storage systems and special
 ----
 
 ## News:
++ **September 2026**: SplineFS is accepted to ATC'26. Congratulations to Jianqiang and Shaocong!
 + **August 2026**: One paper is accepted to Eurosys'27.
 + **July 2026**: LUTHE is accepted to MICRO'26.
 + **July 2026**: One paper is accepted to SC'26.
@@ -93,6 +94,7 @@ I am currently engaged in the research and design of storage systems and special
 ----
 
 ## Selected Publications:
++ (**USENIX ATC'26**) SplineFS: Adaptive Learned Directory Indexing for Memory-Constrained Filesystems
 + (**MICRO'26**) LUTHE: Breaking the Memory Wall of High-Precision Encrypted LLM Nonlinearities via GPU–CSD Co-Design 
 + (**OSDI'26**) Espresso: Constructing Cost-Efficient CXL JBOF via Inter-SSD  Computing Resource Sharing
 + (**ICLR'26**) LouisKV: Efficient KV Cache Retrieval for Long Input-Output Sequences
