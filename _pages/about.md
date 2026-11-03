@@ -24,6 +24,7 @@ I am currently engaged in the research and design of storage systems and special
 ----
 
 ## News:
++ **Octomber 2026**: One paper is accepted to HPCA'27.
 + **September 2026**: SplineFS is accepted to ATC'26. Congratulations to Jianqiang and Shaocong!
 + **August 2026**: One paper is accepted to Eurosys'27.
 + **July 2026**: LUTHE is accepted to MICRO'26.
