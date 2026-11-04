@@ -25,17 +25,19 @@ author_profile: true
 <tr><td><div style="width: 150px;"><img src="/images/people/Junrong-Zhu-PhD.jpg" /></div></td><td>Junrong Zhu (BS from Nanjing University, Ph.D started 2026)</td></tr>
 
 # Interns
-Junhao Zhu, Ph.D, NUDT, 2024-2026<br>
 [Yuyue Wang](https://web.cs.ucla.edu/~yuyue/), Ph.D, UCLA, 2023-2024<br>
 Yifei Yu, Ph.D, HUST, Spring 2024-Summer 2024<br>
 
 # Undergraduate Students
 Jiahao Dong, 4th year, Shandong University<br>
 Xiang Lv, 4th year, Hefei University of Technology<br>
+Rui Qiu, 4th year, Chinese University of Petroleum<br>
+Jianyi Zhang, 3rd year, Beihang University<br>
 Wenze Tian, 2nd year, Peking University<br>
 
 
 # Alumni
+Junhao Zhu, Ph.D, NUDT, 2024-2026<br>
 Chuyu Zhang, Ph.D @ ICT, 2026<br>
 Minxing Chu, MS @ Brown University, 2025<br>
 [Zeyu Li](https://zeyuli.cn/), Ph.D @ HKUSTGZ, 2023<br>
