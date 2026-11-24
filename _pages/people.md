@@ -33,6 +33,8 @@ Jiahao Dong, 4th year, Shandong University<br>
 Xiang Lv, 4th year, Hefei University of Technology<br>
 Rui Qiu, 4th year, Chinese University of Petroleum<br>
 Jianyi Zhang, 3rd year, Beihang University<br>
+Kaihang Zhou, 3rd year, SUSTech<br>
+Xu Zhu, 3rd year, HUST<br>
 Wenze Tian, 2nd year, Peking University<br>
 
 
